@@ -1,0 +1,21 @@
+1. aitodpycocotools安装
+https://blog.csdn.net/m0_52317152/article/details/132185686
+
+2.缓存报错CondaVerificationError: The package for pytorch located at...
+conda clean --all
+
+
+conda create -n LTDNet python=3.9.16
+conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
+pip install timm
+
+
+pip install openmim
+mim install mmcv-full==1.7.1
+
+pip install mmcls
+pip install -v -e .
+
+python setup.py develop
+
+mmrot环境好使 -> LTDNet
