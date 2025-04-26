@@ -15,7 +15,7 @@
 Note that our ORFENet is based on the [MMDetection 2.24.1](https://github.com/open-mmlab/mmdetection). Assume that your environment has satisfied the above requirements, please follow the following steps for installation.
 
 ```shell script
-git clone https://github.com/dyl96/ORFENet.git
+git clone https://github.com/dyl96/LTDNet.git
 cd LTDNet
 pip install -r requirements/build.txt
 python setup.py develop
@@ -32,7 +32,5 @@ python tools/train.py configs_ltdnet/LTDNet_AI_TODv2.py
 ```
 python tools/train.py configs_orfenet/orfenet/LTDNet_LEVIR_Ship.py
 ```
-#### Checkpoint Download：
-Baidu Pan：https://pan.baidu.com/s/1eyJiSV12hX6gggiuq8-DFA?pwd=uon2 
-code：uon2 
+The Pretrained models is on the folder work_dirs.
 
