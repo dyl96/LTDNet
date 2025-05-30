@@ -26,11 +26,11 @@ Download [AI-TODv2](https://drive.google.com/drive/folders/1Er14atDO1cBraBD4DSFO
 ### Train and test：
 ##### Train aitodv2 dataset:
 ```
-python tools/train.py configs_ltdnet/LTDNet_AI_TODv2.py
+python tools/train.py configs_ltdnet/ltdnet/LTDNet_AI_TODv2.py
 ```
 ##### Train LEVIR-Ship dataset:
 ```
-python tools/train.py configs_orfenet/orfenet/LTDNet_LEVIR_Ship.py
+python tools/train.py configs_ltdnet/ltdnet/LTDNet_LEVIR_Ship.py
 ```
 The Pretrained models is on the folder work_dirs.
 
