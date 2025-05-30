@@ -34,3 +34,17 @@ python tools/train.py configs_orfenet/orfenet/LTDNet_LEVIR_Ship.py
 ```
 The Pretrained models is on the folder work_dirs.
 
+
+### 3. Citation
+
+Please cite our paper if you find the work useful:
+
+    @ARTICLE{10988878,
+      author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Xi, Yunqiao and Jin, Jing},
+      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+      title={Exploring Lightweight Structures for Tiny Object Detection in Remote Sensing Images}, 
+      year={2025},
+      volume={63},
+      number={},
+      pages={1-15},
+      doi={10.1109/TGRS.2025.3567345}}
