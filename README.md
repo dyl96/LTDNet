@@ -1,4 +1,4 @@
-# <p align=center> Exploring Lightweight Structures for Tiny Object Detection in Remote Sensing Images    (IEEE TGRS Under review) </p>
+# <p align=center> Exploring Lightweight Structures for Tiny Object Detection in Remote Sensing Images    (IEEE TGRS 2025) </p>
 
 ### 1. Required environments:
 * Linux
