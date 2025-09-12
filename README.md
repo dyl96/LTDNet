@@ -34,12 +34,12 @@ python tools/train.py configs_ltdnet/ltdnet/LTDNet_LEVIR_Ship.py
 ```
 The Pretrained models is on the folder work_dirs.
 
-#### Checkpoint Download：
+### 3. Checkpoint Download（checkpoint-299.pth）：
 Baidu Pan：[https://pan.baidu.com/s/1eyJiSV12hX6gggiuq8-DFA?pwd=uon2](https://pan.baidu.com/s/1Idj3iAB9bmfNqYtXcmCIeA?pwd=t843) 
 code：t843  
 
 
-### 3. Citation
+### 4. Citation
 
 Please cite our paper if you find the work useful:
 
